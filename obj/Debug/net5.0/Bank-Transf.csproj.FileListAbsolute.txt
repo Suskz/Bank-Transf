@@ -1,0 +1,16 @@
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.exe
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.deps.json
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.runtimeconfig.json
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.runtimeconfig.dev.json
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.dll
+C:\Testes\Bank-Transf\bin\Debug\net5.0\ref\Bank-Transf.dll
+C:\Testes\Bank-Transf\bin\Debug\net5.0\Bank-Transf.pdb
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.csproj.AssemblyReference.cache
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.AssemblyInfoInputs.cache
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.AssemblyInfo.cs
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.csproj.CoreCompileInputs.cache
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.dll
+C:\Testes\Bank-Transf\obj\Debug\net5.0\ref\Bank-Transf.dll
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.pdb
+C:\Testes\Bank-Transf\obj\Debug\net5.0\Bank-Transf.genruntimeconfig.cache
